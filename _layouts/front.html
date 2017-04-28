@@ -1,0 +1,33 @@
+<!DOCTYPE HTML> 
+
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
+
+<!--    
+    {- include navbar.html %}
+-->
+            
+      <div class="container">
+        
+        <img src="/asset/badge.png" class="center-block img-responsive">
+
+        <div class="jumbotron">
+        <p>QUIC is an <a href="https://www.ietf.org/">IETF</a> Working Group that is <a href="https://datatracker.ietf.org/wg/quic/about/">chartered</a> to deliver the next transport protocol for the Internet.</p>
+        <p>See our <a href="https://github.com/quicwg/base-drafts/blob/master/CONTRIBUTING.md">contribution guidelines</a> if you want to work with us.</p>
+        </div>
+
+        {{ content }}
+
+      </div>
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    
+  </body>
+</html>
