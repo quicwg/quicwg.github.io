@@ -14,19 +14,19 @@ Our initial documents cover three different aspects of the 'core' QUIC protocol,
 * **Transport** - 
   [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-transport.html) / 
   [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-transport) / 
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Atransport%20label%3Adesign)
+  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-transport%20label%3Adesign)
 * **Recovery** - 
   [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-recovery.html) / 
   [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-recovery) / 
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Arecovery%20label%3Adesign)
+  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-recovery%20label%3Adesign)
 * **TLS** - 
   [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-tls.html) / 
   [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-tls) / 
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Atls%20label%3Adesign)
+  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-tls%20label%3Adesign)
 * **HTTP** - 
   [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-http.html) / 
   [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-http) / 
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Ahttp%20label%3Adesign)
+  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-http%20label%3Adesign)
 
 
 ## Status
