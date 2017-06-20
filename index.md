@@ -31,7 +31,8 @@ Our initial documents cover three different aspects of the 'core' QUIC protocol,
 
 ## Status
 
-Currently, we are working towards our [First Implementation Draft Milestone](https://github.com/quicwg/base-drafts/milestone/1), which aims to specify a minimal set of functionality for initial implementation and interoperability work.
+We have designated the -04 drafts as our First Implementation Draft, and implementers are starting
+to work on the [in-scope functionality](https://github.com/quicwg/base-drafts/wiki/First-Implementation-Draft). We are planning an interop during the [Prague Hackathon](https://www.ietf.org/hackathon/99-hackathon.html); if you'd like to come, please [indicate your interest](https://goo.gl/forms/czQSodQCnRlXTOs82).
 
 See also:
 
