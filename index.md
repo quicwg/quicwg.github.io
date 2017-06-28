@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meeting
 
-We will next be meeting in Paris from 6-8 June, 2017. See the [arrangements](https://github.com/quicwg/wg-materials/blob/master/interim-17-06/arrangements.md) for details, including registration.
+We will next be meeting in Seattle, USA from 3-5 October, 2017. See the [arrangements](https://github.com/quicwg/wg-materials/blob/master/interim-17-10/arrangements.md) for details, including registration.
 
 ## Our Documents
 
