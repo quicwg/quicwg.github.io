@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meeting
 
-We will next be meeting in Seattle, USA from 3-5 October, 2017. See the [arrangements](https://github.com/quicwg/wg-materials/blob/master/interim-17-10/arrangements.md) for details, including registration.
+We will next be meeting in Melbourne, Australia from 23-25 January, 2018. See the [arrangements](https://github.com/quicwg/wg-materials/blob/master/interim-18-01/arrangements.md) for details, including registration.
 
 ## Our Documents
 
