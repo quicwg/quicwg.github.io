@@ -3,9 +3,11 @@ layout: front
 title: QUIC Working Group
 ---
 
-## Upcoming Meeting
+## Upcoming Meetings
 
-We will next be meeting in Melbourne, Australia from 23-25 January, 2018. See the [arrangements](https://github.com/quicwg/wg-materials/blob/master/interim-18-01/arrangements.md) for details, including registration.
+We will be meeting at [IETF 100 in Singapore](https://www.ietf.org/meeting/100/index.html).
+
+Our next interim meeting in Melbourne, Australia from 23-25 January, 2018. See the [arrangements](https://github.com/quicwg/wg-materials/blob/master/interim-18-01/arrangements.md) for details, including registration.
 
 ## Our Documents
 
@@ -29,12 +31,13 @@ Our initial documents cover three different aspects of the 'core' QUIC protocol,
   [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-http%20label%3Adesign)
 
 
-## Status
+## Implementing QUIC
 
-We have designated the -04 drafts as our First Implementation Draft, and implementers are starting
-to work on the [in-scope functionality](https://github.com/quicwg/base-drafts/wiki/First-Implementation-Draft). 
+We have a number of [experimental implementations](https://github.com/quicwg/base-drafts/wiki/Implementations) in progress. The current goal for interop testing is the [Second Implementation Target](https://github.com/quicwg/base-drafts/wiki/Second-Implementation-Draft).
 
-See also:
+Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coordinate testing; contact the [WG chairs](mailto:quic-chairs@ietf.org) for an invitation. Note that discussions on Slack are NOT considered IETF contributions, and therefore the Slack is not suitable for discussion of issues or WG documents.
+
+## See Also
 
 * [Project boards](https://github.com/quicwg/base-drafts/projects) -- an informal view of our outstanding issues
 * [Issues that have consensus](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20label%3Ahas-consensus%20)
