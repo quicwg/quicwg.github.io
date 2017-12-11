@@ -5,9 +5,10 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-We will be meeting at [IETF 100 in Singapore](https://www.ietf.org/meeting/100/index.html), and having an interop event at the [hackathon](https://ietf.org/hackathon/100-hackathon.html) beforehand.
+Our next interim meeting is in Melbourne, Australia from 23-25 January, 2018, with an interop on the 22nd. See the [arrangements](https://github.com/quicwg/wg-materials/blob/master/interim-18-01/arrangements.md) for details. Note that registration is now closed.
 
-Our next interim meeting is in Melbourne, Australia from 23-25 January, 2018, with an interop on the 22nd. See the [arrangements](https://github.com/quicwg/wg-materials/blob/master/interim-18-01/arrangements.md) for details, including registration.
+We will be meeting at [IETF 101 in London](https://www.ietf.org/meeting/101/index.html), and having an interop event at the `hackathon beforehand.
+
 
 ## Our Documents
 
