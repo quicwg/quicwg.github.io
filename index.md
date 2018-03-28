@@ -11,6 +11,10 @@ Our next meeting is at [IETF 101 in London](https://www.ietf.org/meeting/101/ind
 
 Our initial documents cover three different aspects of the 'core' QUIC protocol, and also define a mapping of HTTP semantics to it.
 
+* **Invariants** - 
+  [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-invariants.html) / 
+  [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-invariants) / 
+  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-invariants%20label%3Adesign)
 * **Transport** - 
   [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-transport.html) / 
   [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-transport) / 
