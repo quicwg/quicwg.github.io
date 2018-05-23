@@ -33,6 +33,10 @@ Our initial documents cover three different aspects of the 'core' QUIC protocol,
   [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-http.html) / 
   [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-http) / 
   [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-http%20label%3Adesign)
+* **QPACK** -
+  [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-qpack.html) /
+  [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-qpack) /
+  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-qpack%20label%3Adesign)
 
 
 ## Implementing QUIC
