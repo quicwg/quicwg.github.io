@@ -5,9 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-We're holding an [interim meeting in Kista, Sweden](https://github.com/quicwg/wg-materials/blob/master/interim-18-06/arrangements.md) in early June; registration is required.
-
-After that, our next meeting is at [IETF 102 in Montreal](https://www.ietf.org/meeting/102/index.html), with an interop during the [Hackathon](https://ietf.org/how/runningcode/hackathons/102-hackathon/).
+Our next meeting is at [IETF 102 in Montreal](https://www.ietf.org/meeting/102/index.html), with an interop during the [Hackathon](https://ietf.org/how/runningcode/hackathons/102-hackathon/).
 
 ## Our Documents
 
