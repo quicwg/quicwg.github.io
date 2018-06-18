@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-Our next meeting is at [IETF 102 in Montreal](https://www.ietf.org/meeting/102/index.html), with an interop during the [Hackathon](https://ietf.org/how/runningcode/hackathons/102-hackathon/).
+Our next meeting is at [IETF 102 in Montreal](https://www.ietf.org/how/meetings/102/), with an interop during the [Hackathon](https://ietf.org/how/runningcode/hackathons/102-hackathon/).
 
 ## Our Documents
 
