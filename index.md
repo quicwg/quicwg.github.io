@@ -6,6 +6,7 @@ title: QUIC Working Group
 ## Upcoming Meetings
 
 Our next meeting is at [IETF 102 in Montreal](https://www.ietf.org/how/meetings/102/), with an interop during the [Hackathon](https://ietf.org/how/runningcode/hackathons/102-hackathon/).
+Our next [interim meeting](https://github.com/quicwg/wg-materials/blob/master/interim-18-09/agenda.md) is at [NetApp in New York](https://github.com/quicwg/wg-materials/blob/master/interim-18-09/arrangements.md) on September 19 and 20 with two days of interop preceding.
 
 ## Our Documents
 
