@@ -10,7 +10,7 @@ Our next [interim meeting](https://github.com/quicwg/wg-materials/blob/master/in
 
 ## Our Documents
 
-Our initial documents cover three different aspects of the 'core' QUIC protocol, and also define a mapping of HTTP semantics to it.
+Our initial documents cover different aspects of the 'core' QUIC protocol, and also define a mapping of HTTP semantics to it.
 
 * **Invariants** -
   [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-invariants.html) /
