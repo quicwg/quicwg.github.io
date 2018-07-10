@@ -46,7 +46,6 @@ Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coor
 
 ## See Also
 
-* [Project boards](https://github.com/quicwg/base-drafts/projects) -- an informal view of our outstanding issues
 * [Issues that have consensus](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20label%3Ahas-consensus%20)
 * [Issues that need consensus confirmed](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aclosed%20-label%3Ainvalid%20-label%3Aeditorial%20-label%3Ahas-consensus%20)
 * [Working Group materials](https://github.com/quicwg/wg-materials) -- agendas, minutes, etc.
