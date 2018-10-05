@@ -5,9 +5,8 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-Our next [interim meeting](https://github.com/quicwg/wg-materials/blob/master/interim-18-09/agenda.md) is at [NetApp in New York](https://github.com/quicwg/wg-materials/blob/master/interim-18-09/arrangements.md) on September 19 and 20 with two days of interop preceding. Registration is now closed.
+We will be meeting at [IETF 103 in Bangkok](https://www.ietf.org/how/meetings/103/).
 
-After that, we will be meeting at [IETF 103 in Bangkok](https://www.ietf.org/how/meetings/103/).
 
 ## Our Documents
 
