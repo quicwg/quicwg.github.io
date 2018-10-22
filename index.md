@@ -7,6 +7,8 @@ title: QUIC Working Group
 
 We will be meeting at [IETF 103 in Bangkok](https://www.ietf.org/how/meetings/103/).
 
+After that, we will be holding an [interim meeting in Tokyo in January](https://github.com/quicwg/wg-materials/blob/master/interim-19-01/arrangements.md).
+
 
 ## Our Documents
 
