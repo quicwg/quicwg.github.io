@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-We will be meeting at [IETF 103 in Bangkok](https://www.ietf.org/how/meetings/103/).
+We will be meeting at [IETF 104 in Prague](https://www.ietf.org/how/meetings/104/).
 
 
 ## Our Documents
