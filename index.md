@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-We will be meeting at [IETF 103 in Bangkok](https://www.ietf.org/how/meetings/103/).
+We will be meeting at [IETF 105 in Montreal](https://www.ietf.org/how/meetings/105/).
 
 After that, we will be holding an [interim meeting in Tokyo in January](https://github.com/quicwg/wg-materials/blob/master/interim-19-01/arrangements.md).
 
@@ -42,7 +42,7 @@ Our initial documents cover different aspects of the 'core' QUIC protocol, and a
 
 ## Implementing QUIC
 
-We have a number of [experimental implementations](https://github.com/quicwg/base-drafts/wiki/Implementations) in progress. The current goal for interop testing is the [9th Implementation Target](https://github.com/quicwg/base-drafts/wiki/9th-Implementation-Draft).
+We have a number of [experimental implementations](https://github.com/quicwg/base-drafts/wiki/Implementations) in progress. The current goal for interop testing is the [12th Implementation Target](https://github.com/quicwg/base-drafts/wiki/12th-Implementation-Draft).
 
 Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coordinate testing; contact the [WG chairs](mailto:quic-chairs@ietf.org) for an invitation. Note that discussions on Slack are NOT considered IETF contributions, and therefore the Slack is not suitable for discussion of issues or WG documents.
 
