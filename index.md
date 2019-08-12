@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-We will be meeting at [IETF 105 in Montreal](https://www.ietf.org/how/meetings/105/).
+We will be meeting at [IETF 106 in Singapore in November](https://www.ietf.org/how/meetings/106/).
 
 <!-- After that, we will be holding an [interim meeting in Tokyo in January](https://github.com/quicwg/wg-materials/blob/master/interim-19-01/arrangements.md). -->
 
