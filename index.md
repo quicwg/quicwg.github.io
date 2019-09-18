@@ -39,6 +39,8 @@ Our initial documents cover different aspects of the 'core' QUIC protocol, and a
   [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-qpack) /
   [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-qpack%20label%3Adesign)
 
+**See also** the [repo draft index](https://quicwg.org/base-drafts/) for diffs and pull requests.
+
 
 ## Implementing QUIC
 
