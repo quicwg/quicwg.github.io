@@ -5,10 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-
-We will be holding an [interim meeting in Cupertino in October](https://github.com/quicwg/wg-materials/blob/master/interim-19-10/arrangements.md).
-
-After that, we will be meeting at [IETF 106 in Singapore in November](https://www.ietf.org/how/meetings/106/).
+We will be meeting at [IETF 106 in Singapore in November](https://www.ietf.org/how/meetings/106/).
 
 ## Our Documents
 
