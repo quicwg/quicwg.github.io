@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-We will be meeting at [IETF 107 in Vancouver](https://www.ietf.org/how/meetings/107/).
+TBD
 
 ## Our Documents
 
