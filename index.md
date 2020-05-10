@@ -45,18 +45,18 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
   [Editors' Draft](https://quicwg.github.io/load-balancers/draft-ietf-quic-load-balancers.html) /
   [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-load-balancers) /
   [Repo](https://github.com/quicwg/load-balancers/) /
-  [Open Issues](https://github.com/quicwg/load-balancers/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-qpack%20label%3Adesign)
+  [Open Issues](https://github.com/quicwg/load-balancers/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Adesign)
 * **Extensions**
      * **Datagram**
       [Editors' Draft](https://quicwg.github.io/datagram/draft-ietf-quic-datagram.html) /
       [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-datagram) /
       [Repo](https://github.com/quicwg/datagram/) /
-      [Open Issues](https://github.com/quicwg/datagram/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-qpack%20label%3Adesign)
+      [Open Issues](https://github.com/quicwg/datagram/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Adesign)
      * **Version Negotiation**
       [Editors' Draft](https://quicwg.github.io/version-negotiation/draft-ietf-quic-version-negotiation.html) /
       [WG Draft](https://tools.ietf.org/html/draft-ietf-quic-version-negotiation) /
       [Repo](https://github.com/quicwg/version-negotiation/) /
-      [Open Issues](https://github.com/quicwg/version-negotiation/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-qpack%20label%3Adesign)
+      [Open Issues](https://github.com/quicwg/version-negotiation/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3Adesign)
 
 
 ## Implementing QUIC
