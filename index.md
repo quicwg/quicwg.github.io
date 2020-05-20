@@ -61,7 +61,7 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
 
 ## Implementing QUIC
 
-We have a number of [experimental implementations](https://github.com/quicwg/base-drafts/wiki/Implementations) in progress. The current goal for interop testing is the [17th Implementation Target](https://github.com/quicwg/base-drafts/wiki/17th-Implementation-Draft).
+We have a number of [experimental implementations](https://github.com/quicwg/base-drafts/wiki/Implementations) in progress. The current goal for interop testing is the [18th Implementation Target](https://github.com/quicwg/base-drafts/wiki/18th-Implementation-Draft).
 
 Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coordinate testing; contact the [WG chairs](mailto:quic-chairs@ietf.org) for an invitation. Note that discussions on Slack are considered IETF contributions under "Note Well".
 
