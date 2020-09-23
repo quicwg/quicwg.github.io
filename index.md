@@ -65,6 +65,8 @@ We have a number of [experimental implementations](https://github.com/quicwg/bas
 
 Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coordinate testing; contact the [WG chairs](mailto:quic-chairs@ietf.org) for an invitation. Note that discussions on Slack are considered IETF contributions under "Note Well".
 
+[Automated, continous interop testing](https://interop.seemann.io/) is performed for participating QUIC implementations. Implementers are encouraged to join this effort by making [compatible Docker images](https://github.com/marten-seemann/quic-interop-runner#building-a-quic-endpoint) of their implementations available.
+
 ## See Also
 
 * [Late Stage Processing Queue](https://github.com/quicwg/base-drafts/projects/5) (base-drafts)
