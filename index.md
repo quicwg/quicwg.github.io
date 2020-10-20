@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-TBD
+[October 22, 2020 interim meeting](https://github.com/quicwg/wg-materials/tree/master/interim-20-10) focused on requirements for multipath support for QUIC
 
 ## Our Documents
 
