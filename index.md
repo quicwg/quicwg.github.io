@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-[October 22, 2020 interim meeting](https://github.com/quicwg/wg-materials/tree/master/interim-20-10) focused on requirements for multipath support for QUIC
+[IETF 109, Tuesday, November 18, 2020](https://github.com/quicwg/wg-materials/blob/master/ietf109/agenda.md)
 
 ## Our Documents
 
