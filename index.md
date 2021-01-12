@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-[IETF 109, Tuesday, November 18, 2020](https://github.com/quicwg/wg-materials/blob/master/ietf109/agenda.md)
+[IETF 110, March 8-12, 2021](https://github.com/quicwg/wg-materials/blob/master/ietf110/agenda.md)
 
 ## Our Documents
 
@@ -61,11 +61,11 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
 
 ## Implementing QUIC
 
-We have a number of [experimental implementations](https://github.com/quicwg/base-drafts/wiki/Implementations) in progress. The current goal for interop testing is the [19th Implementation Target](https://github.com/quicwg/base-drafts/wiki/20th-Implementation-Draft).
+We have a number of [experimental implementations](https://github.com/quicwg/base-drafts/wiki/Implementations) in progress. The current goal for interop testing is the [20th Implementation Target](https://github.com/quicwg/base-drafts/wiki/20th-Implementation-Draft).
 
 Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coordinate testing; contact the [WG chairs](mailto:quic-chairs@ietf.org) for an invitation. Note that discussions on Slack are considered IETF contributions under "Note Well".
 
-[Automated, continous interop testing](https://interop.seemann.io/) is performed for participating QUIC implementations. Implementers are encouraged to join this effort by making [compatible Docker images](https://github.com/marten-seemann/quic-interop-runner#building-a-quic-endpoint) of their implementations available.
+[Automated, continuous interop testing](https://interop.seemann.io/) is performed for participating QUIC implementations. Implementers are encouraged to join this effort by making [compatible Docker images](https://github.com/marten-seemann/quic-interop-runner#building-a-quic-endpoint) of their implementations available.
 
 ## See Also
 
