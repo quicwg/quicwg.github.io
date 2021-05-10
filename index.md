@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-[IETF 110, March 8-12, 2021](https://github.com/quicwg/wg-materials/blob/master/ietf110/agenda.md)
+[IETF 111, July 26-30, 2021](https://github.com/quicwg/wg-materials/blob/master/ietf111/agenda.md)
 
 ## Our Documents
 
