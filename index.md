@@ -11,63 +11,63 @@ title: QUIC Working Group
 
 Our current documents cover different aspects of the 'core' QUIC protocol, define a mapping of HTTP semantics to it, and cover selected other topics.
 
-* **Invariants** -
-  [Editors' Draft](https://quicwg.github.io/base-drafts/rfc8999.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-invariants) /
-  [Repo](https://github.com/quicwg/base-drafts/) /
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-invariants%20label%3Adesign)
-* **Transport** -
-  [Editors' Draft](https://quicwg.github.io/base-drafts/rfc9000.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-transport) /
-  [Repo](https://github.com/quicwg/base-drafts/) /
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-transport%20label%3Adesign)
-* **Recovery** -
-  [Editors' Draft](https://quicwg.github.io/base-drafts/rfc9002.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-recovery) /
-  [Repo](https://github.com/quicwg/base-drafts/) /
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-recovery%20label%3Adesign)
-* **TLS** -
-  [Editors' Draft](https://quicwg.github.io/base-drafts/rfc9001.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-tls) /
-  [Repo](https://github.com/quicwg/base-drafts/) /
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-tls%20label%3Adesign)
-* **HTTP** -
-  [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-http.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-http) /
-  [Repo](https://github.com/quicwg/base-drafts/) /
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-http%20label%3Adesign)
-* **QPACK** -
-  [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-qpack.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-qpack) /
-  [Repo](https://github.com/quicwg/base-drafts/) /
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-qpack%20label%3Adesign)
-* **Load Balancers** -
-  [Editors' Draft](https://quicwg.github.io/load-balancers/draft-ietf-quic-load-balancers.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) /
-  [Repo](https://github.com/quicwg/load-balancers/) /
-  [Open Issues](https://github.com/quicwg/load-balancers/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-* **Operations** -
-     * **Applicability**
-      [Editors' Draft](https://quicwg.github.io/ops-drafts/draft-ietf-quic-applicability.html) /
-      [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-applicability) /
-      [Repo](https://github.com/quicwg/ops-drafts/) /
-      [Open Issues](https://github.com/quicwg/ops-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-     * **Manageability**
-      [Editors' Draft](https://quicwg.github.io/ops-drafts/draft-ietf-quic-manageability.html) /
-      [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-manageability) /
-      [Repo](https://github.com/quicwg/ops-drafts/) /
-      [Open Issues](https://github.com/quicwg/ops-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-* **Extensions**
-     * **Datagram**
-      [Editors' Draft](https://quicwg.github.io/datagram/draft-ietf-quic-datagram.html) /
-      [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-datagram) /
-      [Repo](https://github.com/quicwg/datagram/) /
-      [Open Issues](https://github.com/quicwg/datagram/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-     * **Version Negotiation**
-      [Editors' Draft](https://quicwg.github.io/version-negotiation/draft-ietf-quic-version-negotiation.html) /
-      [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-version-negotiation) /
-      [Repo](https://github.com/quicwg/version-negotiation/) /
-      [Open Issues](https://github.com/quicwg/version-negotiation/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+* **RFCs**
+  * **RFC 8999 - Version-Independent Properties of QUIC** -
+    [HTML](https://www.rfc-editor.org/rfc/rfc8999.html) /
+    [TXT](https://www.rfc-editor.org/rfc/rfc8999.txt) /
+    [PDF](https://www.rfc-editor.org/rfc/rfc8999.pdf)
+  * **RFC 9000 - QUIC: A UDP-Based Multiplexed and Secure Transport** -
+    [HTML](https://www.rfc-editor.org/rfc/rfc9000.html) /
+    [TXT](https://www.rfc-editor.org/rfc/rfc9000.txt) /
+    [PDF](https://www.rfc-editor.org/rfc/rfc9000.pdf)
+  * **RFC 9001 - Using TLS to Secure QUIC** -
+    [HTML](https://www.rfc-editor.org/rfc/rfc9001.html) /
+    [TXT](https://www.rfc-editor.org/rfc/rfc9001.txt) /
+    [PDF](https://www.rfc-editor.org/rfc/rfc9001.pdf)
+  * **RFC 9002 - QUIC Loss Detection and Congestion Control** -
+    [HTML](https://www.rfc-editor.org/rfc/rfc9002.html) /
+    [TXT](https://www.rfc-editor.org/rfc/rfc9002.txt) /
+    [PDF](https://www.rfc-editor.org/rfc/rfc9002.pdf)
+
+
+* **In-progress documents**
+  * **HTTP/3** -
+    [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-http.html) /
+    [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-http) /
+    [Repo](https://github.com/quicwg/base-drafts/) /
+    [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-http%20label%3Adesign)
+  * **QPACK** -
+    [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-qpack.html) /
+    [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-qpack) /
+    [Repo](https://github.com/quicwg/base-drafts/) /
+    [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-qpack%20label%3Adesign)
+  * **Load Balancers** -
+    [Editors' Draft](https://quicwg.github.io/load-balancers/draft-ietf-quic-load-balancers.html) /
+    [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) /
+    [Repo](https://github.com/quicwg/load-balancers/) /
+    [Open Issues](https://github.com/quicwg/load-balancers/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+  * **Operations** -
+      * **Applicability**
+        [Editors' Draft](https://quicwg.github.io/ops-drafts/draft-ietf-quic-applicability.html) /
+        [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-applicability) /
+        [Repo](https://github.com/quicwg/ops-drafts/) /
+        [Open Issues](https://github.com/quicwg/ops-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+      * **Manageability**
+        [Editors' Draft](https://quicwg.github.io/ops-drafts/draft-ietf-quic-manageability.html) /
+        [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-manageability) /
+        [Repo](https://github.com/quicwg/ops-drafts/) /
+        [Open Issues](https://github.com/quicwg/ops-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+  * **Extensions**
+      * **Datagram**
+        [Editors' Draft](https://quicwg.github.io/datagram/draft-ietf-quic-datagram.html) /
+        [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-datagram) /
+        [Repo](https://github.com/quicwg/datagram/) /
+        [Open Issues](https://github.com/quicwg/datagram/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+      * **Version Negotiation**
+        [Editors' Draft](https://quicwg.github.io/version-negotiation/draft-ietf-quic-version-negotiation.html) /
+        [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-version-negotiation) /
+        [Repo](https://github.com/quicwg/version-negotiation/) /
+        [Open Issues](https://github.com/quicwg/version-negotiation/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 
 
 ## Implementing QUIC
