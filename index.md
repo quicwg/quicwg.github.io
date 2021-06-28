@@ -57,7 +57,7 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
         [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-manageability) /
         [Repo](https://github.com/quicwg/ops-drafts/) /
         [Open Issues](https://github.com/quicwg/ops-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-  * **Extensions**
+  * **Extensions** -
       * **Datagram**
         [Editors' Draft](https://quicwg.github.io/datagram/draft-ietf-quic-datagram.html) /
         [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-datagram) /
@@ -68,6 +68,32 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
         [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-version-negotiation) /
         [Repo](https://github.com/quicwg/version-negotiation/) /
         [Open Issues](https://github.com/quicwg/version-negotiation/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+      * **Greasing the QUIC bit**
+        [Editors' Draft](https://quicwg.org/quic-bit-grease/draft-ietf-quic-bit-grease.html) /
+        [WG Draft](https://datatracker.ietf.org/doc/html/draft-thomson-quic-bit-grease) /
+        [Repo](https://github.com/quicwg/quic-bit-grease/) /
+        [Open Issues](https://github.com/quicwg/quic-bit-grease/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+      * **Acknowledgement Frequency**
+        [Editors' Draft](https://quicwg.org/ack-frequency/main/draft-ietf-quic-ack-frequency.html) /
+        [WG Draft - TBD] /
+        [Repo](https://github.com/quicwg/ack-frequency/) /
+        [Open Issues](https://github.com/quicwg/ack-frequency/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+      * **qlog**
+        * **Main logging Schema**
+          [Editors' Draft](https://quicwg.org/qlog/draft-ietf-quic-qlog-main-schema.html) /
+          [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-qlog-main-schema) /
+          [Repo](https://github.com/quicwg/qlog/) /
+          [Open Issues](https://github.com/quicwg/qlog/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+        * **QUIC event definitions**
+          [Editors' Draft](https://quicwg.org/qlog/draft-ietf-quic-qlog-quic-events.html) /
+          [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-qlog-quic-events.html) /
+          [Repo](https://github.com/quicwg/qlog/) /
+          [Open Issues](https://github.com/quicwg/qlog/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+        * **HTTP/3 and QPACK event definitions**
+          [Editors' Draft](https://quicwg.org/qlog/draft-ietf-quic-qlog-h3-events.html) /
+          [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-qlog-h3-events.html) /
+          [Repo](https://github.com/quicwg/qlog/) /
+          [Open Issues](https://github.com/quicwg/qlog/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 
 
 ## Implementing QUIC
