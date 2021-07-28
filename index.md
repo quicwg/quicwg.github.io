@@ -74,7 +74,7 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
         [Repo](https://github.com/quicwg/quic-bit-grease/) /
         [Open Issues](https://github.com/quicwg/quic-bit-grease/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
       * **Acknowledgement Frequency**
-        [Editors' Draft](https://quicwg.org/ack-frequency/main/draft-ietf-quic-ack-frequency.html) /
+        [Editors' Draft](https://quicwg.org/ack-frequency/draft-ietf-quic-ack-frequency.html) /
         [WG Draft - TBD] /
         [Repo](https://github.com/quicwg/ack-frequency/) /
         [Open Issues](https://github.com/quicwg/ack-frequency/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
