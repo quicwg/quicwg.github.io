@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-[IETF 111, July 26-30, 2021](https://github.com/quicwg/wg-materials/blob/master/ietf111/agenda.md)
+[IETF 112, November 6-12, 2021] (Agenda TBC)
 
 ## Our Documents
 
@@ -75,7 +75,7 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
         [Open Issues](https://github.com/quicwg/quic-bit-grease/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
       * **Acknowledgement Frequency**
         [Editors' Draft](https://quicwg.org/ack-frequency/draft-ietf-quic-ack-frequency.html) /
-        [WG Draft - TBD] /
+        [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-ack-frequency-00) /
         [Repo](https://github.com/quicwg/ack-frequency/) /
         [Open Issues](https://github.com/quicwg/ack-frequency/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
       * **qlog**
