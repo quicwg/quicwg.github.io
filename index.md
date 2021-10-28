@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-[IETF 112, November 6-12, 2021] (Agenda TBC)
+[IETF 112, November 6-12, 2021] [Agenda](https://github.com/quicwg/wg-materials/blob/main/ietf112/agenda.md)
 
 ## Our Documents
 
