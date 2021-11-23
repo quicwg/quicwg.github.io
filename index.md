@@ -95,7 +95,7 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
           [Repo](https://github.com/quicwg/qlog/) /
           [Open Issues](https://github.com/quicwg/qlog/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
       * **QUIC v2**
-        [Editors' Draft](https://quicwg.org/quic-v2/draft-ietf-quic-v2-ack-frequency.html) /
+        [Editors' Draft](https://quicwg.org/quic-v2/draft-ietf-quic-v2.html) /
         [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-v2) /
         [Repo](https://github.com/quicwg/quic-v2/) /
         [Open Issues](https://github.com/quicwg/draft-ietf-quic-v2/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
