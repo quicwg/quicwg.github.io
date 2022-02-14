@@ -97,6 +97,11 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-v2) /
   [Repo](https://github.com/quicwg/quic-v2/) /
   [Open Issues](https://github.com/quicwg/quic-v2/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
+* **Multipath**
+  [Editors' Draft](https://quicwg.org/multipath/draft-ietf-quic-multipath.html) /
+  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-multipath) /
+  [Repo](https://github.com/quicwg/multipath/) /
+  [Open Issues](https://github.com/quicwg/multipath/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 
 
 ## Implementing QUIC
