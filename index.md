@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-* IETF 113, March 19-25, 2022 [Agenda] (TBC)
+* IETF 113, March 22, 2022 [Agenda](https://github.com/quicwg/wg-materials/blob/main/ietf113/agenda.md)
 
 ## Our Documents
 
