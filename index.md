@@ -28,6 +28,10 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
   [HTML](https://www.rfc-editor.org/rfc/rfc9002.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9002.txt) /
   [PDF](https://www.rfc-editor.org/rfc/rfc9002.pdf)
+* **RFC 9221 - An Unreliable Datagram Extension to QUIC** -
+  [HTML](https://www.rfc-editor.org/rfc/rfc9221.html) /
+  [TXT](https://www.rfc-editor.org/rfc/rfc9221.txt) /
+  [PDF](https://www.rfc-editor.org/rfc/rfc9221.pdf)
 
 
 ### In-progress documents
@@ -56,11 +60,6 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-manageability) /
   [Repo](https://github.com/quicwg/ops-drafts/) /
   [Open Issues](https://github.com/quicwg/ops-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-* **Datagram** -
-  [Editors' Draft](https://quicwg.github.io/datagram/draft-ietf-quic-datagram.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-datagram) /
-  [Repo](https://github.com/quicwg/datagram/) /
-  [Open Issues](https://github.com/quicwg/datagram/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 * **Version Negotiation** -
   [Editors' Draft](https://quicwg.github.io/version-negotiation/draft-ietf-quic-version-negotiation.html) /
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-version-negotiation) /
