@@ -67,7 +67,7 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
   [Open Issues](https://github.com/quicwg/version-negotiation/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 * **Greasing the QUIC bit** -
   [Editors' Draft](https://quicwg.org/quic-bit-grease/draft-ietf-quic-bit-grease.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-thomson-quic-bit-grease) /
+  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-bit-grease) /
   [Repo](https://github.com/quicwg/quic-bit-grease/) /
   [Open Issues](https://github.com/quicwg/quic-bit-grease/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 * **Acknowledgement Frequency** -
