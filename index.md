@@ -5,11 +5,19 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-* IETF 113, March 22, 2022 [Agenda](https://github.com/quicwg/wg-materials/blob/main/ietf113/agenda.md)
+* IETF 114, July 23 - 29, 2022 [Agenda] (TBD)
 
 ## Our Documents
 
-Our current documents cover different aspects of the 'core' QUIC protocol, define a mapping of HTTP semantics to it, and cover selected other topics.
+The QUIC WG originated RFCs 8999 - 9002 that cover different aspects of the
+'core' QUIC protocol, we continue to maintain the QUIC protocol and related
+specifications.
+
+We also originated the HTTP/3 RFC, a mapping of HTTP semantics to QUIC. Ongoing
+work has now transferred back to the [HTTP WG](https://httpwg.org).
+
+In-progress documents cover selected other topics such as version negotiation or
+new extensions.
 
 ### RFCs
 * **RFC 8999 - Version-Independent Properties of QUIC** -
@@ -32,19 +40,18 @@ Our current documents cover different aspects of the 'core' QUIC protocol, defin
   [HTML](https://www.rfc-editor.org/rfc/rfc9221.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9221.txt) /
   [PDF](https://www.rfc-editor.org/rfc/rfc9221.pdf)
+* **RFC 9114 - HTTP/3** -
+  [HTML](https://www.rfc-editor.org/rfc/rfc9114.html) /
+  [TXT](https://www.rfc-editor.org/rfc/rfc9114.txt) /
+  [PDF](https://www.rfc-editor.org/rfc/rfc9114.pdf)
+* **RFC 9204 - QPACK** -
+  [HTML](https://www.rfc-editor.org/rfc/rfc9204.html) /
+  [TXT](https://www.rfc-editor.org/rfc/rfc9204.txt) /
+  [PDF](https://www.rfc-editor.org/rfc/rfc9204.pdf)
 
 
 ### In-progress documents
-* **HTTP/3** -
-  [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-http.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-http) /
-  [Repo](https://github.com/quicwg/base-drafts/) /
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-http%20label%3Adesign)
-* **QPACK** -
-  [Editors' Draft](https://quicwg.github.io/base-drafts/draft-ietf-quic-qpack.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-qpack) /
-  [Repo](https://github.com/quicwg/base-drafts/) /
-  [Open Issues](https://github.com/quicwg/base-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20label%3A-qpack%20label%3Adesign)
+
 * **Load Balancers** -
   [Editors' Draft](https://quicwg.github.io/load-balancers/draft-ietf-quic-load-balancers.html) /
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) /
