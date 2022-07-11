@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-* IETF 114, Thursday July 28, 2022 - Session I [Agenda] (TBD)
+* IETF 114, Thursday July 28, 2022 - Session I [Agenda](https://github.com/quicwg/wg-materials/blob/main/ietf114/agenda.md)
 
 ## Our Documents
 
