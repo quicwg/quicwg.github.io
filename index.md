@@ -40,6 +40,10 @@ new extensions.
   [HTML](https://www.rfc-editor.org/rfc/rfc9221.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9221.txt) /
   [PDF](https://www.rfc-editor.org/rfc/rfc9221.pdf)
+* **RFC 9287 - Greasing the QUIC Bit** -
+  [HTML](https://www.rfc-editor.org/rfc/rfc9287.html) /
+  [TXT](https://www.rfc-editor.org/rfc/rfc9287.txt) /
+  [PDF](https://www.rfc-editor.org/rfc/rfc9287.pdf)
 
 * **RFC 9114 - HTTP/3** -
   [HTML](https://www.rfc-editor.org/rfc/rfc9114.html) /
@@ -73,11 +77,6 @@ new extensions.
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-version-negotiation) /
   [Repo](https://github.com/quicwg/version-negotiation/) /
   [Open Issues](https://github.com/quicwg/version-negotiation/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-* **Greasing the QUIC bit** -
-  [Editors' Draft](https://quicwg.org/quic-bit-grease/draft-ietf-quic-bit-grease.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-bit-grease) /
-  [Repo](https://github.com/quicwg/quic-bit-grease/) /
-  [Open Issues](https://github.com/quicwg/quic-bit-grease/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 * **Acknowledgement Frequency** -
   [Editors' Draft](https://quicwg.org/ack-frequency/draft-ietf-quic-ack-frequency.html) /
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-ack-frequency) /
