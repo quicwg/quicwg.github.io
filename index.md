@@ -7,19 +7,10 @@ title: QUIC Working Group
 
 * IETF 115, November 5-11, 2022. Session details TBC.
 
-## Our Documents
+## Core Specifications
 
-The QUIC WG originated RFCs 8999 - 9002 that cover different aspects of the
-'core' QUIC protocol, we continue to maintain the QUIC protocol and related
-specifications.
+The 'core' specifications comprising QUIC are:
 
-We also originated the HTTP/3 RFC, a mapping of HTTP semantics to QUIC. Ongoing
-work has now transferred back to the [HTTP WG](https://httpwg.org).
-
-In-progress documents cover selected other topics such as version negotiation or
-new extensions.
-
-### RFCs
 * **RFC 8999 - Version-Independent Properties of QUIC** -
   [HTML](https://www.rfc-editor.org/rfc/rfc8999.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc8999.txt) /
@@ -36,6 +27,12 @@ new extensions.
   [HTML](https://www.rfc-editor.org/rfc/rfc9002.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9002.txt) /
   [PDF](https://www.rfc-editor.org/rfc/rfc9002.pdf)
+
+## QUIC Extensions
+
+QUIC can be extended in several ways. The following specifications have been
+formally standardized as RFCs:
+
 * **RFC 9221 - An Unreliable Datagram Extension to QUIC** -
   [HTML](https://www.rfc-editor.org/rfc/rfc9221.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9221.txt) /
@@ -44,6 +41,25 @@ new extensions.
   [HTML](https://www.rfc-editor.org/rfc/rfc9287.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9287.txt) /
   [PDF](https://www.rfc-editor.org/rfc/rfc9287.pdf)
+
+## Applicability and Manageability
+
+Specifications that discuss considerations for application protocol developers
+using QUIC, and network operators carrying QUIC:
+
+* **RFC 9308 - Applicability of the QUIC Transport Protocol** -
+  [HTML](https://www.rfc-editor.org/rfc/rfc9308.html) /
+  [TXT](https://www.rfc-editor.org/rfc/rfc9308.txt) /
+  [PDF](https://www.rfc-editor.org/rfc/rfc9308.pdf)
+* **RFC 9312 - Manageability of the QUIC Transport Protocol** -
+  [HTML](https://www.rfc-editor.org/rfc/rfc9312.html) /
+  [TXT](https://www.rfc-editor.org/rfc/rfc9312.txt) /
+  [PDF](https://www.rfc-editor.org/rfc/rfc9312.pdf)
+
+## HTTP/3 and QPACK
+
+We originated the HTTP/3 and QPACK RFCs. Ownership of these drafts has now
+transferred back to the [HTTP WG](https://httpwg.org).
 
 * **RFC 9114 - HTTP/3** -
   [HTML](https://www.rfc-editor.org/rfc/rfc9114.html) /
@@ -55,23 +71,16 @@ new extensions.
   [PDF](https://www.rfc-editor.org/rfc/rfc9204.pdf)
 
 
-### In-progress documents
+## In-progress documents
+
+In-progress documents for continued maintenance and evolution of QUIC, as described
+further in [our charter](https://datatracker.ietf.org/wg/quic/about/).
 
 * **Load Balancers** -
   [Editors' Draft](https://quicwg.github.io/load-balancers/draft-ietf-quic-load-balancers.html) /
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) /
   [Repo](https://github.com/quicwg/load-balancers/) /
   [Open Issues](https://github.com/quicwg/load-balancers/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-* **Applicability** -
-  [Editors' Draft](https://quicwg.github.io/ops-drafts/draft-ietf-quic-applicability.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-applicability) /
-  [Repo](https://github.com/quicwg/ops-drafts/) /
-  [Open Issues](https://github.com/quicwg/ops-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-* **Manageability**
-  [Editors' Draft](https://quicwg.github.io/ops-drafts/draft-ietf-quic-manageability.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-manageability) /
-  [Repo](https://github.com/quicwg/ops-drafts/) /
-  [Open Issues](https://github.com/quicwg/ops-drafts/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 * **Version Negotiation** -
   [Editors' Draft](https://quicwg.github.io/version-negotiation/draft-ietf-quic-version-negotiation.html) /
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-version-negotiation) /
