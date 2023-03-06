@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-* IETF 115, November 7, 2022. Monday Session II 13:00 - 15:00.
+* IETF 116, March 30, 2023. Monday Session I 09:30 - 11:30.
 
 ## Core Specifications
 
