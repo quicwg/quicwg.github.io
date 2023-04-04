@@ -127,6 +127,19 @@ Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coor
 
 [Automated, continuous interop testing](https://interop.seemann.io/) is performed for participating QUIC implementations. Implementers are encouraged to join this effort by making [compatible Docker images](https://github.com/marten-seemann/quic-interop-runner#building-a-quic-endpoint) of their implementations available.
 
+## Reporting Vulnerabilities
+
+If you believe you've discovered a vulnerability in the QUIC protocol (or related
+IETF protocols) please see the IETF's guidance on [how to report
+these](https://www.ietf.org/standards/rfcs/vulnerabilities/).
+
+If you believe you've discovered an implementation vulnerability in a product,
+open source project, or service using QUIC, then you should report these
+directly the responsible party. The IETF does not have a formal means to reach
+these parties and cannot do so on your behalf. Implementers or operators often
+provide their own publicly-available disclosure documents that provide contact
+details and guidelines for reporters.
+
 ## See Also
 
 * [Working Group materials](https://github.com/quicwg/wg-materials) -- agendas, minutes, etc.
