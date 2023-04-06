@@ -138,7 +138,10 @@ open source project, or service using QUIC, then you should report these
 directly the responsible party. The IETF does not have a formal means to reach
 these parties and cannot do so on your behalf. Implementers or operators often
 provide their own publicly-available disclosure documents that provide contact
-details and guidelines for reporters.
+details and guidelines for reporters. The
+[implementations](https://github.com/quicwg/base-drafts/wiki/Implementations)
+wiki may include a link to such documents under the "Vulnerability reporting"
+field.
 
 ## See Also
 
