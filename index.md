@@ -41,6 +41,14 @@ formally standardized as RFCs:
   [HTML](https://www.rfc-editor.org/rfc/rfc9287.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9287.txt) /
   [PDF](https://www.rfc-editor.org/rfc/rfc9287.pdf)
+* **RFC 9368 - Compatible Version Negotiation for QUIC** -
+  [HTML](https://www.rfc-editor.org/rfc/rfc9368.html) /
+  [TXT](https://www.rfc-editor.org/rfc/rfc9368.txt) /
+  [PDF](https://www.rfc-editor.org/rfc/rfc9368.pdf)
+* **RFC 9287 - QUIC Version 2** -
+  [HTML](https://www.rfc-editor.org/rfc/rfc9369.html) /
+  [TXT](https://www.rfc-editor.org/rfc/rfc9369.txt) /
+  [PDF](https://www.rfc-editor.org/rfc/rfc9369.pdf)
 
 ## Applicability and Manageability
 
@@ -81,11 +89,6 @@ further in [our charter](https://datatracker.ietf.org/wg/quic/about/).
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) /
   [Repo](https://github.com/quicwg/load-balancers) /
   [Open Issues](https://github.com/quicwg/load-balancers/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-* **Version Negotiation** -
-  [Editors' Draft](https://quicwg.github.io/version-negotiation/draft-ietf-quic-version-negotiation.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-version-negotiation) /
-  [Repo](https://github.com/quicwg/version-negotiation) /
-  [Open Issues](https://github.com/quicwg/version-negotiation/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 * **Acknowledgement Frequency** -
   [Editors' Draft](https://quicwg.org/ack-frequency/draft-ietf-quic-ack-frequency.html) /
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-ack-frequency) /
@@ -107,11 +110,6 @@ further in [our charter](https://datatracker.ietf.org/wg/quic/about/).
       [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-qlog-h3-events.html) /
       [Repo](https://github.com/quicwg/qlog) /
       [Open Issues](https://github.com/quicwg/qlog/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
-* **QUIC v2**
-  [Editors' Draft](https://quicwg.org/quic-v2/draft-ietf-quic-v2.html) /
-  [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-v2) /
-  [Repo](https://github.com/quicwg/quic-v2) /
-  [Open Issues](https://github.com/quicwg/quic-v2/issues?utf8=✓&q=is%3Aissue%20is%3Aopen)
 * **Multipath**
   [Editors' Draft](https://quicwg.org/multipath/draft-ietf-quic-multipath.html) /
   [WG Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-multipath) /
