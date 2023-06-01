@@ -45,7 +45,7 @@ formally standardized as RFCs:
   [HTML](https://www.rfc-editor.org/rfc/rfc9368.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9368.txt) /
   [PDF](https://www.rfc-editor.org/rfc/rfc9368.pdf)
-* **RFC 9287 - QUIC Version 2** -
+* **RFC 9369 - QUIC Version 2** -
   [HTML](https://www.rfc-editor.org/rfc/rfc9369.html) /
   [TXT](https://www.rfc-editor.org/rfc/rfc9369.txt) /
   [PDF](https://www.rfc-editor.org/rfc/rfc9369.pdf)
