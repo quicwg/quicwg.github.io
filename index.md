@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-* IETF 119, 16 Mar 2024 - 22 Mar 2024, meeting session TBC
+* IETF 120 Vacouver, 25 July 2024, Session I 09:30-11:30 local time
 
 ## Core Specifications
 
