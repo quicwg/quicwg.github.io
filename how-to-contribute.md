@@ -1,3 +1,8 @@
+---
+layout: subpage
+title: QUIC Working Group - How to Contribute
+---
+
 **Be aware that all contributions fall under the "[NOTE WELL](#note-well)" terms
 outlined below and our [Code of Conduct](#code-of-conduct) applies.**
 
