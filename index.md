@@ -5,7 +5,7 @@ title: QUIC Working Group
 
 ## Upcoming Meetings
 
-* IETF 120 Vancouver, 25 July 2024, Session I 09:30-11:30 local time
+* IETF 122 Bangkok, 19 March 2025, Session II 13:00-15:00 local time
 
 ## Core Specifications
 
