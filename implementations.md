@@ -41,7 +41,7 @@ libraries) and QUIC-related tooling.
 
 Implementation using Python and asyncio.
 
-- Website: https://github.com/aiortc/aioquic
+- Website: [https://github.com/aiortc/aioquic](https://github.com/aiortc/aioquic)
 - Language(s): Python
 - Role(s): client, server, library
 - Public server(s):
@@ -62,7 +62,7 @@ Apple's implementation
 
 Chromium's implementation (not to be confused with Cloudflare quiche)
 
-- Website: <https://quiche.googlesource.com/quiche/>
+- Website: [https://quiche.googlesource.com/quiche/](https://quiche.googlesource.com/quiche/)
 - Language(s):  C, C++
 - Role(s): client, server, library
 - Public Server(s):
@@ -82,7 +82,7 @@ F5's implementation
 
 HAproxy's implementation
 
-- Website: <https://github.com/haproxy/haproxy/)
+- Website: [https://github.com/haproxy/haproxy/](https://github.com/haproxy/haproxy/)
 - Language(s): C
 - Role(s): server
 - Public Server(s):
@@ -92,7 +92,7 @@ HAproxy's implementation
 
 Implementation using Haskell
 
-- Website: <https://github.com/kazu-yamamoto/quic)
+- Website: [https://github.com/kazu-yamamoto/quic](https://github.com/kazu-yamamoto/quic)
 - Language(s): Haskell
 - Role(s): client, server
 - Public Server(s):
@@ -103,7 +103,7 @@ Implementation using Haskell
 
 Implementation using Java
 
-- Website: <https://bitbucket.org/pjtr/kwik/)
+- Website: [https://bitbucket.org/pjtr/kwik/](https://bitbucket.org/pjtr/kwik/)
 - Language(s): Java
 - Role(s): client, server, library
 - Public Server: N/A
@@ -117,7 +117,7 @@ forms. Bindings are available for
 [Crystal](https://github.com/iv-org/lsquic.cr) and
 [Lisp](https://github.com/AeroNotix/cl-lsquic).
 
-- Website: <https://github.com/litespeedtech/lsquic)
+- Website: [https://github.com/litespeedtech/lsquic](https://github.com/litespeedtech/lsquic)
 - Language(s): C
 - Role(s): client, server
 - Public Server(s):
@@ -132,7 +132,7 @@ Microsoft's general purpose (cross-platform) QUIC implementation. Optimized for
 [high performance](https://microsoft.github.io/msquic/). More documentation
 [here](https://github.com/microsoft/msquic#documentation).
 
-- Website: <https://github.com/microsoft/msquic)
+- Website: [https://github.com/microsoft/msquic](https://github.com/microsoft/msquic)
 - Language(s): C
 - Role(s): client, server
 - Public Server(s):
@@ -146,7 +146,7 @@ mvfst (pronounced move fast) is an implementation by Facebook. proxygen
 implements HTTP/3 mapping over QUIC and QPACK in C++, with MVFST as the
 transport.
 
-- Website: <https://github.com/facebookincubator/mvfst)
+- Website: [https://github.com/facebookincubator/mvfst](https://github.com/facebookincubator/mvfst)
 - Language(s): C++
 - Role(s): client, server, library
 - Public Server(s):
@@ -159,7 +159,7 @@ transport.
 
 Mozilla's implementation
 
-- Website: <https://github.com/mozilla/neqo)
+- Website: [https://github.com/mozilla/neqo](https://github.com/mozilla/neqo)
 - Language(s):
 - Role(s): client, server
 - Public Server(s):
@@ -169,9 +169,9 @@ Mozilla's implementation
 A range of implementation and tools implemented using C and C++
 
 - Website(s):
-  - <https://github.com/ngtcp2/ngtcp2)
-  - <https://github.com/ngtcp2/nghttp3)
-  - <https://nghttp2.org/documentation/h2load-howto.html)
+  - [https://github.com/ngtcp2/ngtcp2](https://github.com/ngtcp2/ngtcp2)
+  - [https://github.com/ngtcp2/nghttp3](https://github.com/ngtcp2/nghttp3)
+  - [https://nghttp2.org/documentation/h2load-howto.html](https://nghttp2.org/documentation/h2load-howto.html)
 - Language(s): C, C++
 - Role(s): client, server, library, tool
 - Public Server(s):
@@ -183,7 +183,7 @@ A range of implementation and tools implemented using C and C++
 
 nginx's implementation
 
-- Website: <https://hg.nginx.org/nginx-quic/)
+- Website: [https://hg.nginx.org/nginx-quic/](https://hg.nginx.org/nginx-quic/)
 - Language(s): C
 - Role(s): server
 - Public Server(s):
@@ -209,7 +209,7 @@ insert randomly chosen QUIC frames in the packets. The procedures implemented in
 the initial version are simple, there is clearly room for more sophistication.
 Suggestions are welcome.
 
-- Website: <https://github.com/private-octopus/picoquic)
+- Website: [https://github.com/private-octopus/picoquic](https://github.com/private-octopus/picoquic)
 - Language(s): C
 - Role(s): client, server, library, tool
 - Public Server(s):
@@ -227,8 +227,8 @@ sequence diagram, congestion graph, multiplexing diagram and packetization
 visualization.
 
 - Website(s):
-  - <https://github.com/quicwg/qlog)
-  - <https://qvis.quictools.info/)
+  - [https://github.com/quicwg/qlog](https://github.com/quicwg/qlog)
+  - [https://qvis.quictools.info/](https://qvis.quictools.info/)
 - Language(s): C++
 - Role(s): tool
 - Public Server(s): N/A
@@ -241,8 +241,8 @@ h3i consists of an interactive command-line tool and library for low-level
 HTTP/3 debugging and testing.
 
 - Website(s):
-  - <https://github.com/cloudflare/quiche)
-  - <https://blog.cloudflare.com/h3i)
+  - [https://github.com/cloudflare/quiche](https://github.com/cloudflare/quiche)
+  - [https://blog.cloudflare.com/h3i](https://blog.cloudflare.com/h3i)
 - Language(s): Rust
 - Role(s): client, server, library
 - Public Server(s):
@@ -255,7 +255,7 @@ HTTP/3 debugging and testing.
 
 QUIC protocol implementation for H2O server
 
-- Website: <https://github.com/h2o/quicly)
+- Website: [https://github.com/h2o/quicly](https://github.com/h2o/quicly)
 - Language(s): C
 - Role(s): client, server, library
 - Public Server(s): N/A
@@ -270,7 +270,7 @@ effort by making [compatible Docker images](https://github.com/marten-seemann/qu
 The QUIC network simulator is a simulation framework for automated benchmarking of
 QUIC implementations. Allows extensive network simulations using ns-3.
 
-- Website: <https://interop.seemann.io/)
+- Website: [https://interop.seemann.io/](https://interop.seemann.io/)
 - Language(s): N/A
 - Role(s): tool
 - Public Server(s): N/A
@@ -280,7 +280,7 @@ QUIC implementations. Allows extensive network simulations using ns-3.
 Rust implementation with both a synchronous (sans-I/O) interface and an async
 interface, using rustls for TLS.
 
-- Website: <https://github.com/quinn-rs/quinn)
+- Website: [https://github.com/quinn-rs/quinn](https://github.com/quinn-rs/quinn)
 - Language(s): Rust
 - Role(s): client, server, library
 - Public Server(s):
@@ -288,7 +288,7 @@ interface, using rustls for TLS.
 ### quic-go
 
 Implementation using Go
-- Website: <https://github.com/quic-go/quic-go>
+- Website: [https://github.com/quic-go/quic-go](https://github.com/quic-go/quic-go)
 - Language(s): Go
 - Role(s): client, server, library
 - Public Server(s):
@@ -299,7 +299,7 @@ Implementation using Go
 
 Amazon's implementation
 
-- Website: <https://github.com/aws/s2n-quic>
+- Website: [https://github.com/aws/s2n-quic](https://github.com/aws/s2n-quic)
 - Language(s): Rust
 - Role(s): client, server, library
 - Public Server(s): N/A
@@ -309,7 +309,7 @@ Amazon's implementation
 
 The world's most popular network protocol analyzer
 
-- Website: <https://www.wireshark.org/>
+- Website: [https://www.wireshark.org/](https://www.wireshark.org/)
 - Language(s): C
 - Role(s): tool
 - Public Server(s): N/A
@@ -319,7 +319,7 @@ The world's most popular network protocol analyzer
 XQUIC Library released by Alibaba is a cross-platform implementation of IETF
 QUIC and HTTP/3 protocol.
 
-- Website: <https://github.com/alibaba/xquic>
+- Website: [https://github.com/alibaba/xquic](https://github.com/alibaba/xquic)
 - Language(s): C
 - Role(s): client, server
 - Public Server(s): N/A
