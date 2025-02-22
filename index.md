@@ -3,10 +3,6 @@ layout: front
 title: QUIC Working Group
 ---
 
-## Upcoming Meetings
-
-* IETF 122 Bangkok, 19 March 2025, Session II 13:00-15:00 local time
-
 ## Core Specifications
 
 The 'core' specifications comprising QUIC are:
@@ -130,6 +126,10 @@ Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coor
 
 [Automated, continuous interop testing](https://interop.seemann.io/) is performed for participating QUIC implementations. Implementers are encouraged to join this effort by making [compatible Docker images](https://github.com/marten-seemann/quic-interop-runner#building-a-quic-endpoint) of their implementations available.
 
+## Upcoming Meetings
+
+* IETF 122 Bangkok, 19 March 2025, Session II 13:00-15:00 local time
+
 ## Reporting Vulnerabilities
 
 If you believe you've discovered a vulnerability in the QUIC protocol (or related
@@ -149,6 +149,5 @@ field.
 ## See Also
 
 * [Working Group materials](https://github.com/quicwg/wg-materials) -- agendas, minutes, etc.
-* [Related Activities](https://github.com/quicwg/base-drafts/wiki/Related-Activities) -- QUIC extensions and applications that *might* happen
 
 ----
