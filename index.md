@@ -3,7 +3,8 @@ layout: front
 title: QUIC Working Group
 ---
 
-## Core Specifications
+## Published RFCs
+### Core Specifications
 
 The 'core' specifications comprising QUIC are:
 
@@ -12,7 +13,7 @@ The 'core' specifications comprising QUIC are:
 * [RFC 9001](https://www.rfc-editor.org/rfc/rfc9001.html) - Using TLS to Secure QUIC
 * [RFC 9002](https://www.rfc-editor.org/rfc/rfc9002.html) - QUIC Loss Detection and Congestion Control
 
-## QUIC Extensions
+### QUIC Extensions
 
 QUIC can be extended in several ways. The following have been
 formally standardized as RFCs:
@@ -22,7 +23,7 @@ formally standardized as RFCs:
 * [RFC 9368](https://www.rfc-editor.org/rfc/rfc9368.html) - Compatible Version Negotiation for QUIC
 * [RFC 9369](https://www.rfc-editor.org/rfc/rfc9369.html) - QUIC Version 2
 
-## Applicability, Manageability, and Operations
+### Applicability, Manageability, and Operations
 
 Specifications providing considerations for application protocol developers
 using QUIC, and deployment / network operators managing/carrying QUIC:
@@ -30,7 +31,7 @@ using QUIC, and deployment / network operators managing/carrying QUIC:
 * [RFC 9308](https://www.rfc-editor.org/rfc/rfc9308.html) - Applicability of the QUIC Transport Protocol
 * [RFC 9312](https://www.rfc-editor.org/rfc/rfc9312.html) - Manageability of the QUIC Transport Protocol
 
-## HTTP/3 and QPACK
+### HTTP/3 and QPACK
 
 We originated the HTTP/3 and QPACK RFCs. Ownership of these drafts has now
 transferred back to the [HTTP WG](https://httpwg.org).
