@@ -94,13 +94,16 @@ these](https://www.ietf.org/standards/rfcs/vulnerabilities/).
 
 If you believe you've discovered an implementation vulnerability in a product,
 open source project, or service using QUIC, then you should report these
-directly to the responsible party. The IETF does not have a formal means to reach
-these parties and cannot do so on your behalf. Implementers or operators often
-provide their own publicly-available disclosure documents that provide contact
-details and guidelines for reporters. The
-[implementations and tools](https://quicwg.org/staging.quicwg.github.io/implementations.html)
-page may include a link to such documents under the "Vulnerability reporting"
-field.
+directly to the responsible party. The IETF does not have a formal means to
+reach these parties and cannot do so on your behalf. Implementers or operators
+often provide their own publicly-available disclosure documents that provide
+contact details and guidelines for reporters. The [implementations and
+tools](https://quicwg.org/staging.quicwg.github.io/implementations.html) page
+may include a link to such documents under the "Vulnerability reporting" field.
+If you believe the same vulnerability affects multiple different implementations
+or deployments, then a coordinated responsible disclosure may be the best path
+forward; please reach out to [WG chairs](mailto:quic-chairs@ietf.org) for
+further information.
 
 ## See Also
 
