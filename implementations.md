@@ -8,22 +8,6 @@ libraries) and QUIC-related tooling.
 
 ## Overview table
 
-<table class="table table-sm">
-  <!--<thead>
-    <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
-    </tr>
-  </thead> -->
-  <tbody>
-    <tr>
-      <td><a href='#aioquic'>aioquic</a></td>
-    </tr>
-  </tbody>
-</table>
-
 | Name                                                                               |
 | ---------------------------------------------------------------------------------- |
 | [aioquic](#aioquic)                                                                |
