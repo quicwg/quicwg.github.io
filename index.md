@@ -70,11 +70,17 @@ further in [our charter](https://datatracker.ietf.org/wg/quic/about/).
 
 ## Implementing QUIC
 
-There are a range of [implementations](https://github.com/quicwg/base-drafts/wiki/Implementations). Some focus on providing features of the core protocol, while some also include support for in-progress extensions.
+There are a range of [implementations and tools](https://quicwg.org/staging.quicwg.github.io/implementations.html),
+with a range of support for features of the core protocol and extensions.
 
-Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to coordinate testing; contact the [WG chairs](mailto:quic-chairs@ietf.org) for an invitation. Note that discussions on Slack are considered IETF contributions under "Note Well".
+Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to
+coordinate testing; contact the [WG chairs](mailto:quic-chairs@ietf.org) for an
+invitation. Note that discussions on Slack are considered IETF contributions
+under "Note Well".
 
-[Automated, continuous interop testing](https://interop.seemann.io/) is performed for participating QUIC implementations. Implementers are encouraged to join this effort by making [compatible Docker images](https://github.com/marten-seemann/quic-interop-runner#building-a-quic-endpoint) of their implementations available.
+[Automated, continuous interop testing](https://interop.seemann.io/) is
+performed for participating QUIC implementations. Implementers are encouraged to
+join this effort by making [compatible Docker images](https://github.com/marten-seemann/quic-interop-runner#building-a-quic-endpoint) of their implementations available.
 
 ## Upcoming Meetings
 
@@ -92,8 +98,8 @@ directly to the responsible party. The IETF does not have a formal means to reac
 these parties and cannot do so on your behalf. Implementers or operators often
 provide their own publicly-available disclosure documents that provide contact
 details and guidelines for reporters. The
-[implementations](https://github.com/quicwg/base-drafts/wiki/Implementations)
-wiki may include a link to such documents under the "Vulnerability reporting"
+[implementations and tools](https://quicwg.org/staging.quicwg.github.io/implementations.html)
+page may include a link to such documents under the "Vulnerability reporting"
 field.
 
 ## See Also
