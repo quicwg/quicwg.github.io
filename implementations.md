@@ -17,6 +17,7 @@ libraries) and QUIC-related tooling.
 | [haproxy](#haproxy)                                                                |
 | [Haskell quic](#haskell-quic)                                                      |
 | [kwik / flupke](#kwik--flupke)                                                     |
+| [linuxquic](#linuxquic)                                                            |
 | [lsquic / lsqpack](#lsquic--lsqpack)                                               |
 | [MsQuic](#msquic)                                                                  |
 | [mvfst / proxygen](#mvfst--proxygen)                                               |
@@ -107,6 +108,19 @@ Implementation using Java
 - Language(s): Java
 - Role(s): client, server, library
 - Public Server: N/A
+
+### linuxquic
+
+In-kernel QUIC implementation with Userspace handshake for the Linux kernel.
+A [socket API draft](https://datatracker.ietf.org/doc/html/draft-lxin-quic-socket-apis)
+exists to discuss the interface between kernel and user space.
+
+- Website: [https://github.com/lxin/quic](https://github.com/lxin/quic)
+- Language(s): C
+- Role(s): client, server
+- Public Server(s):
+  - d.moritzbuhl.de:443/pub/
+- Vulnerability reporting: Xin Long <lucien.xin@gmail.com>
 
 ### lsquic / lsqpack
 
