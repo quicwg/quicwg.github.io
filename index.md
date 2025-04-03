@@ -84,7 +84,8 @@ join this effort by making [compatible Docker images](https://github.com/marten-
 
 ## Upcoming Meetings
 
-* IETF 122 Bangkok, 19 March 2025, Session II 13:00-15:00 local time
+* Virtual Interim on QUIC multiplexing (TBD)
+* IETF 123 Madrid (TBD)
 
 ## Reporting Vulnerabilities
 
