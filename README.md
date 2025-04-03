@@ -29,7 +29,7 @@ Tools](https://quicwg.org/staging.quicwg.github.io/implementations) page, then
 you'll want to edit [implementations.md](implementations.md).
 
 Changes to existing pages should follow the style and structure of existing
-content. For example, populating the the same fields, in the same order, using
+content. For example, populating the same fields, in the same order, using
 similar editorial conventions.
 
 GitHub supports in-browser editing of existing files. Pull requests can be
