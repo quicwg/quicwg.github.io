@@ -15,50 +15,18 @@
   </head>
   <body>
 
-
     {% include navbar.html %}
 
+    <div class="container">
+      {{ content }}
 
-      <div class="container">
-
-        <h1><img src="/asset/badge.png" class="img-fluid" alt="QUIC"></h1>
-
-        <div class="lead">
-
-        <p>The <a href="https://www.ietf.org/">IETF</a> QUIC Working Group
-        produced QUIC version 1 — a UDP-based, stream-multiplexing, encrypted
-        transport protocol. The protocol itself is published as <a
-        href="https://www.rfc-editor.org/rfc/rfc9000.html">RFC 9000</a>, and
-        there are other related RFCs of note, see below.
-
-        <p>We are now <a
-        href="https://datatracker.ietf.org/wg/quic/about/">chartered</a> to be
-        the focal point for any QUIC-related work in the IETF. Our work covers
-        maintenance and evolution of published specifications, the deployability
-        of QUIC, and new extensions to QUIC.</p>
-
-        <p>The QUIC Working Group originated HTTP/3, the mapping of HTTP to
-        QUIC, and the QPACK header compression scheme. These are now maintained
-        by the <a href="https://httpwg.org">HTTP Working Group</a>.</p>
-
-        <p>If you'd like to participate in IETF Working Group activities please
-        see the <a
-        href="https://quicwg.org/staging.quicwg.github.io/how-to-contribute">contribution
-        guidelines</a>. Source code for the webpages on this site is located on
+      <div>
+        <p>
+        Source code for the webpages on this site is located on
         <a href="https://github.com/quicwg/staging.quicwg.github.io">GitHub</a> <img src="asset/github-mark.svg" width=20>, we
         welcome issues and PRs.</p>
-        </div>
-
-        {{ content }}
-
-        <div>
-          <p>
-          Source code for the webpages on this site is located on
-          <a href="https://github.com/quicwg/staging.quicwg.github.io">GitHub</a> <img src="asset/github-mark.svg" width=20>, we
-          welcome issues and PRs.</p>
-        </div>
-
       </div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
