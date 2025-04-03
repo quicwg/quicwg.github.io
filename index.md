@@ -70,7 +70,7 @@ further in [our charter](https://datatracker.ietf.org/wg/quic/about/).
 
 ## Implementing QUIC
 
-There are a range of [implementations and tools](https://quicwg.org/staging.quicwg.github.io/implementations.html),
+There are a range of [implementations and tools](https://quicwg.org/implementations.html),
 with a range of support for features of the core protocol and extensions.
 
 Implementers should join the [quicdev Slack](https://quicdev.slack.com/) to
@@ -99,7 +99,7 @@ directly to the responsible party. The IETF does not have a formal means to
 reach these parties and cannot do so on your behalf. Implementers or operators
 often provide their own publicly-available disclosure documents that provide
 contact details and guidelines for reporters. The [implementations and
-tools](https://quicwg.org/staging.quicwg.github.io/implementations.html) page
+tools](https://quicwg.org/implementations.html) page
 may include a link to such documents under the "Vulnerability reporting" field.
 If you believe the same vulnerability affects multiple different implementations
 or deployments, then a coordinated responsible disclosure may be the best path

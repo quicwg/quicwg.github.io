@@ -1,6 +1,6 @@
 # QUIC WG website source
 
-This is the repository that backs https://quicwg.org/staging.quicwg.github.io/.
+This is the repository that backs https://quicwg.org/.
 Contributions in accordance with our [policies](CONTRIBUTING.md) are welcome.
 
 ## Technical Overview
@@ -25,7 +25,7 @@ Assets such as images are located under the `asset` directory.
 
 First, identify the page you'd like to update. Then open a PR against the
 related markdown. For example, if you'd like to update the [Implementations and
-Tools](https://quicwg.org/staging.quicwg.github.io/implementations) page, then
+Tools](https://quicwg.org/) page, then
 you'll want to edit [implementations.md](implementations.md).
 
 Changes to existing pages should follow the style and structure of existing
