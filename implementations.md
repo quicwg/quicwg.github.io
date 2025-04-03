@@ -4,36 +4,35 @@ title: QUIC Working Group - Implementations and tools
 ---
 
 This page lists details of known active QUIC implementations (applications or
-libraries) and QUIC-related tooling.
+libraries) and QUIC-related tooling. Many of these are open source projects that
+welcome contributions. Several project include a "Vulnerability Reporting" field
+containing details for reporting vulnerability-related matters.
 
-## Overview table
-
-| Name                                                                               |
-| ---------------------------------------------------------------------------------- |
-| [aioquic](#aioquic)                                                                |
-| [AppleQuic](#applequic)                                                            |
-| [Chromium](#chromium)                                                              |
-| [f5](#f5)                                                                          |
-| [haproxy](#haproxy)                                                                |
-| [Haskell quic](#haskell-quic)                                                      |
-| [kwik / flupke](#kwik--flupke)                                                     |
-| [linuxquic](#linuxquic)                                                            |
-| [lsquic / lsqpack](#lsquic--lsqpack)                                               |
-| [MsQuic](#msquic)                                                                  |
-| [mvfst / proxygen](#mvfst--proxygen)                                               |
-| [Neqo](#neqo)                                                                      |
-| [ngtcp2 / nghttp3 / h2load](#ngtcp2--nghttp3--h2load)                              |
-| [nginx](#nginx)                                                                    |
-| [picoquic / fuzi_q](#picoquic--fuzi_q)                                             |
-| [qlog / qvis](#qlog--qvis)                                                         |
-| [quiche / h3i](#quiche--h3i)                                                       |
-| [quicly](#quicly)                                                                  |
-| [QUIC Interop runner / network simulator](#quic-interop-runner--network-simulator) |
-| [Quinn](#quinn)                                                                    |
-| [quic-go](#quic-go)                                                                |
-| [s2n-quic](#s2n-quic)                                                              |
-| [Wireshark](#wireshark)                                                            |
-| [XQUIC](#xquic)                                                                    |
+Implementations
+: [aioquic](#aioquic)
+: [AppleQuic](#applequic)
+: [Chromium](#chromium)
+: [f5](#f5)
+: [haproxy](#haproxy)
+: [Haskell quic](#haskell-quic)
+: [kwik / flupke](#kwik--flupke)
+: [linuxquic](#linuxquic)
+: [lsquic / lsqpack](#lsquic--lsqpack)
+: [MsQuic](#msquic)
+: [mvfst / proxygen](#mvfst--proxygen)
+: [Neqo](#neqo)
+: [ngtcp2 / nghttp3 / h2load](#ngtcp2--nghttp3--h2load)
+: [nginx](#nginx)
+: [picoquic / fuzi_q](#picoquic--fuzi_q)
+: [qlog / qvis](#qlog--qvis)
+: [quiche / h3i](#quiche--h3i)
+: [quicly](#quicly)
+: [QUIC Interop runner / network simulator](#quic-interop-runner--network-simulator)
+: [Quinn](#quinn)
+: [quic-go](#quic-go)
+: [s2n-quic](#s2n-quic)
+: [Wireshark](#wireshark)
+: [XQUIC](#xquic)
 
 
 ## Details
@@ -127,9 +126,7 @@ exists to discuss the interface between kernel and user space.
 LiteSpeed QUIC and HTTP/3 library.  Works on Linux, FreeBSD, MacOS, Android, and
 Windows. Turn-key open-source web server that uses lsquic is available at
 [openlitespeed.org](https://openlitespeed.org/) in both source and package
-forms. Bindings are available for
-[Crystal](https://github.com/iv-org/lsquic.cr) and
-[Lisp](https://github.com/AeroNotix/cl-lsquic).
+forms.
 
 - Website: [https://github.com/litespeedtech/lsquic](https://github.com/litespeedtech/lsquic)
 - Language(s): C
@@ -212,17 +209,6 @@ license. Tested on Windows, Linux, FreeBSD/IOS.
 Over the net fuzzing of QUIC servers or clients. Fuzi_q can be used as a client
 to test a QUIC server, or as a server to test a QUIC client.
 
-Fuzi_q started from the testsuite of picoquic. Fuzi_q hooks into the Picoquic
-stack, catching messages just before they would be encrypted and fuzzing them.
-It tries to do that intelligently. For each connection, Fuzi_q determines an
-encryption point, such as "the initial messages ave been processed", or "the
-handshake is confirmed", or "the connection is closing". The connection
-progresses up to that state, and then packets are fuzzed. The fuzzing itself is
-based on knowledge of the QUIC protocol. The fuzzer might modify QUIC frames, or
-insert randomly chosen QUIC frames in the packets. The procedures implemented in
-the initial version are simple, there is clearly room for more sophistication.
-Suggestions are welcome.
-
 - Website: [https://github.com/private-octopus/picoquic](https://github.com/private-octopus/picoquic)
 - Language(s): C
 - Role(s): client, server, library, tool
@@ -302,6 +288,7 @@ interface, using rustls for TLS.
 ### quic-go
 
 Implementation using Go
+
 - Website: [https://github.com/quic-go/quic-go](https://github.com/quic-go/quic-go)
 - Language(s): Go
 - Role(s): client, server, library
