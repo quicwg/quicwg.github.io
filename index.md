@@ -84,7 +84,9 @@ join this effort by making [compatible Docker images](https://github.com/marten-
 
 ## Upcoming Meetings
 
-* Virtual Interim on QUIC multiplexing (TBD)
+* Virtual Interim on QUIC multiplexing (2025-06-02)
+  * [Arrangements](https://datatracker.ietf.org/meeting/interim-2025-quic-01/session/quic)
+  * [Agenda](https://github.com/quicwg/wg-materials/blob/main/interim-25-06/agenda.md)
 * IETF 123 Madrid (TBD)
 
 ## Reporting Vulnerabilities
