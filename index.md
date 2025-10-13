@@ -84,7 +84,7 @@ join this effort by making [compatible Docker images](https://github.com/marten-
 
 ## Upcoming Meetings
 
-* Virtual Interim on QUIC multiplexing (2025-10-14)
+* Virtual Interim on qlog (2025-10-14)
   * [Arrangements](https://datatracker.ietf.org/meeting/interim-2025-quic-02/session/quic)
   * [Agenda](https://github.com/quicwg/wg-materials/blob/main/interim-25-10/agenda.md)
 * IETF 124 Montreal (Thursday 2025-11-06 22:00-00:00 UTC)
