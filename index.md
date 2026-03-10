@@ -44,9 +44,9 @@ transferred back to the [HTTP WG](https://httpwg.org).
 In-progress documents for continued maintenance and evolution of QUIC, as described
 further in [our charter](https://datatracker.ietf.org/wg/quic/about/).
 
-* [Load Balancers](https://quicwg.github.io/load-balancers/draft-ietf-quic-load-balancers.html) -
-  [Datatracker](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) <img src="asset/ietf-logo-white.svg" width=20>  /
-  [GitHub Repo](https://github.com/quicwg/load-balancers) <img src="asset/github-mark.svg" width=20>
+* [Multipath](https://quicwg.org/multipath/draft-ietf-quic-multipath.html) -
+  [Datatracker](https://datatracker.ietf.org/doc/html/draft-ietf-quic-multipath) <img src="asset/ietf-logo-white.svg" width=20> /
+  [GitHub Repo](https://github.com/quicwg/multipath) <img src="asset/github-mark.svg" width=20>
 * [Acknowledgement Frequency](https://quicwg.org/ack-frequency/draft-ietf-quic-ack-frequency.html) -
   [Datatracker](https://datatracker.ietf.org/doc/html/draft-ietf-quic-ack-frequency) <img src="asset/ietf-logo-white.svg" width=20> /
   [GitHub Repo](https://github.com/quicwg/ack-frequency) <img src="asset/github-mark.svg" width=20>
@@ -60,12 +60,24 @@ further in [our charter](https://datatracker.ietf.org/wg/quic/about/).
     * [HTTP/3 event definitions](https://quicwg.org/qlog/draft-ietf-quic-qlog-h3-events.html) -
       [Datatracker](https://datatracker.ietf.org/doc/html/draft-ietf-quic-qlog-h3-events.html) <img src="asset/ietf-logo-white.svg" width=20> /
       [GitHub Repo](https://github.com/quicwg/qlog) <img src="asset/github-mark.svg" width=20>
-* [Multipath](https://quicwg.org/multipath/draft-ietf-quic-multipath.html) -
-  [Datatracker](https://datatracker.ietf.org/doc/html/draft-ietf-quic-multipath) <img src="asset/ietf-logo-white.svg" width=20> /
-  [GitHub Repo](https://github.com/quicwg/multipath) <img src="asset/github-mark.svg" width=20>
-* [Reliable Reset](https://quicwg.org/reliable-stream-reset/draft-ietf-quic-reliable-stream-reset.html) -
+* [QUIC Stream Resets with Partial Delivery](https://quicwg.org/reliable-stream-reset/draft-ietf-quic-reliable-stream-reset.html) -
   [Datatracker](https://datatracker.ietf.org/doc/html/draft-ietf-quic-reliable-stream-reset) <img src="asset/ietf-logo-white.svg" width=20> /
   [GitHub Repo](https://github.com/quicwg/reliable-stream-reset) <img src="asset/github-mark.svg" width=20>
+* [QUIC Address Discovery](https://quicwg.org/address-discovery/draft-ietf-quic-address-discovery.html) -
+  [Datatracker](https://datatracker.ietf.org/doc/draft-ietf-quic-address-discovery/) <img src="asset/ietf-logo-white.svg" width=20> /
+  [GitHub Repo](https://github.com/quicwg/address-discovery) <img src="asset/github-mark.svg" width=20>
+* [QMux](https://quicwg.org/qmux/draft-ietf-quic-qmux.html) -
+  [Datatracker](https://datatracker.ietf.org/doc/draft-ietf-quic-qmux/) <img src="asset/ietf-logo-white.svg" width=20> /
+  [GitHub Repo](https://github.com/quicwg/qmux) <img src="asset/github-mark.svg" width=20>
+* [Extended Key Update](https://quicwg.org/extended-key-update/draft-ietf-quic-extended-key-update.html) -
+  [Datatracker](https://datatracker.ietf.org/doc/draft-ietf-quic-extended-key-update/) <img src="asset/ietf-logo-white.svg" width=20> /
+  [GitHub Repo](https://github.com/quicwg/extended-key-update) <img src="asset/github-mark.svg" width=20>
+* [Extended ACK Timestamps](https://quicwg.org/receive-ts/draft-ietf-quic-receive-ts.html) -
+  [Datatracker](https://datatracker.ietf.org/doc/draft-ietf-quic-receive-ts/) <img src="asset/ietf-logo-white.svg" width=20> /
+  [GitHub Repo](https://github.com/quicwg/receive-ts) <img src="asset/github-mark.svg" width=20>
+* [Load Balancers](https://quicwg.github.io/load-balancers/draft-ietf-quic-load-balancers.html) -
+  [Datatracker](https://datatracker.ietf.org/doc/html/draft-ietf-quic-load-balancers) <img src="asset/ietf-logo-white.svg" width=20>  /
+  [GitHub Repo](https://github.com/quicwg/load-balancers) <img src="asset/github-mark.svg" width=20>
 
 
 ## Implementing QUIC
@@ -84,10 +96,7 @@ join this effort by making [compatible Docker images](https://github.com/marten-
 
 ## Upcoming Meetings
 
-* Virtual Interim on qlog (2025-10-14)
-  * [Arrangements](https://datatracker.ietf.org/meeting/interim-2025-quic-02/session/quic)
-  * [Agenda](https://github.com/quicwg/wg-materials/blob/main/interim-25-10/agenda.md)
-* IETF 124 Montreal (Thursday 2025-11-06 22:00-00:00 UTC)
+* IETF 125 Shenzen (Thursday 2026-03-19 11:30-12:30 Local)
 
 ## Reporting Vulnerabilities
 
