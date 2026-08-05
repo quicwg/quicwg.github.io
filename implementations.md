@@ -28,6 +28,7 @@ Implementations
 : [quiche / h3i](#quiche--h3i)
 : [quicly](#quicly)
 : [QUIC Interop runner / network simulator](#quic-interop-runner--network-simulator)
+: [quico](#quico)
 : [Quinn](#quinn)
 : [quic-go](#quic-go)
 : [s2n-quic](#s2n-quic)
@@ -274,7 +275,18 @@ QUIC implementations. Allows extensive network simulations using ns-3.
 - Language(s): N/A
 - Role(s): tool
 - Public Server(s): N/A
+  
+### quico
 
+Implementation in pure JavaScript for Node.js, with no native dependencies or
+OpenSSL. TLS 1.3 is provided by lemon-tls, a pure JavaScript TLS library.
+
+- Website: [https://github.com/colocohen/quico](https://github.com/colocohen/quico)
+- Language(s): JavaScript
+- Role(s): client, server, library
+- Public Server(s): N/A
+- Vulnerability reporting: https://github.com/colocohen/quico/security/policy
+  
 ### Quinn
 
 Rust implementation with both a synchronous (sans-I/O) interface and an async
