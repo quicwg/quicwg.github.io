@@ -296,6 +296,16 @@ Implementation using Go
   - https://interop.seemann.io
 - Vulnerability reporting: https://github.com/quic-go/quic-go/security/policy
 
+### quicX
+
+quicX is a QUIC v1/v2 and HTTP/3 stack in C++17, written with readability as a first-class goal: RFC 9000/9369 transport with 0-RTT, connection migration, key update and loss recovery, a TLS 1.3 handshake, and an HTTP/3 layer with QPACK. It is validated weekly against 17 other implementations with the community interop runner; results are auto-published.
+
+- Website: [https://github.com/caozhiyi/quicX](https://github.com/caozhiyi/quicX)
+- Language(s): C++
+- Role(s): client, server, library
+- Public Server(s): N/A
+- Vulnerability reporting: https://github.com/caozhiyi/quicX/blob/main/SECURITY.md
+
 ### s2n-quic
 
 Amazon's implementation
